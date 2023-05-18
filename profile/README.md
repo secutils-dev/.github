@@ -16,6 +16,10 @@ The main goal of this project is to provide application security engineers with 
 * Request bin, CSP builder, certificate generator, web scrapper and more
 * Intuitive and customizable user interface
 
+## Documentation
+
+The documentation for Secutils.dev is hosted at [secutils.dev/docs](https://secutils.dev/docs).
+
 ## Community
 
 - ❓ Ask questions on [GitHub Discussions](https://github.com/orgs/secutils-dev/discussions)
