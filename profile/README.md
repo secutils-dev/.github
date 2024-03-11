@@ -4,7 +4,11 @@
 
 Refer to [secutils-dev/secutils](https://github.com/secutils-dev/secutils) for the main code and [secutils-dev/secutils-webui](https://github.com/secutils-dev/secutils-webui) for the web interface component of Secutils.dev.
 
-![Secutils.dev UI](https://github.com/secutils-dev/.github/blob/main/profile/promo.png?raw=true)
+![Secutils.dev Webhooks](https://github.com/secutils-dev/.github/blob/main/profile/webhooks.png?raw=true)
+
+![Secutils.dev Web Scraping](https://github.com/secutils-dev/.github/blob/main/profile/web_scraping.png?raw=true)
+
+![Secutils.dev Digital Certificates](https://github.com/secutils-dev/.github/blob/main/profile/digital_certificates.png?raw=true)
 
 ## Why Secutils.dev?
 
