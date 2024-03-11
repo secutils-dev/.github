@@ -21,6 +21,8 @@ Secutils.dev adheres to [open security principles](https://en.wikipedia.org/wiki
 
 ![Secutils.dev Digital Certificates](https://github.com/secutils-dev/.github/blob/main/profile/digital_certificates.png?raw=true)
 
+![Secutils.dev Web Security](https://github.com/secutils-dev/.github/blob/main/profile/web_security.png?raw=true)
+
 ## Documentation
 
 The documentation for Secutils.dev is hosted at [secutils.dev/docs](https://secutils.dev/docs).
