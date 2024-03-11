@@ -1,14 +1,8 @@
 # <img src="https://raw.githubusercontent.com/secutils-dev/secutils/main/assets/logo/secutils-logo-initials.png" alt="Secutils.dev" width="22"> [Secutils.dev](https://secutils.dev) &middot; [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://github.com/secutils-dev/secutils/blob/main/LICENSE) [![Build Status](https://github.com/secutils-dev/secutils/actions/workflows/ci.yml/badge.svg)](https://github.com/secutils-dev/secutils/actions)
 
-[Secutils.dev](https://secutils.dev) is an open-source, versatile, yet simple toolbox for security-minded engineers built by application security engineers.
+[Secutils.dev](https://secutils.dev) is an open-source, versatile, yet simple security toolbox for engineers and researchers built by application security engineers.
 
 Refer to [secutils-dev/secutils](https://github.com/secutils-dev/secutils) for the main code and [secutils-dev/secutils-webui](https://github.com/secutils-dev/secutils-webui) for the web interface component of Secutils.dev.
-
-![Secutils.dev Webhooks](https://github.com/secutils-dev/.github/blob/main/profile/webhooks.png?raw=true)
-
-![Secutils.dev Web Scraping](https://github.com/secutils-dev/.github/blob/main/profile/web_scraping.png?raw=true)
-
-![Secutils.dev Digital Certificates](https://github.com/secutils-dev/.github/blob/main/profile/digital_certificates.png?raw=true)
 
 ## Why Secutils.dev?
 
@@ -20,6 +14,12 @@ Secutils.dev adheres to [open security principles](https://en.wikipedia.org/wiki
 * [Templates](https://secutils.dev/docs/guides/digital_certificates) for certificates and private keys to test cryptographic security protocols
 * [Content Security Policy (CSP) management](https://secutils.dev/docs/guides/web_security/csp), enabling the import and creation of policies from scratch
 * Tools for [web page resource scraping](https://secutils.dev/docs/guides/web_scraping/resources), content tracking, and more
+
+![Secutils.dev Webhooks](https://github.com/secutils-dev/.github/blob/main/profile/webhooks.png?raw=true)
+
+![Secutils.dev Web Scraping](https://github.com/secutils-dev/.github/blob/main/profile/web_scraping.png?raw=true)
+
+![Secutils.dev Digital Certificates](https://github.com/secutils-dev/.github/blob/main/profile/digital_certificates.png?raw=true)
 
 ## Documentation
 
