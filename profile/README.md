@@ -2,7 +2,7 @@
 
 [Secutils.dev](https://secutils.dev) is an open-source, versatile, yet simple security toolbox for engineers and researchers built by application security engineers.
 
-Refer to [secutils-dev/secutils](https://github.com/secutils-dev/secutils) for the main code and [secutils-dev/secutils-webui](https://github.com/secutils-dev/secutils-webui) for the web interface component of Secutils.dev.
+Refer to [secutils-dev/secutils](https://github.com/secutils-dev/secutils) for the main code and [secutils-dev/retrack](https://github.com/secutils-dev/retrack) for the web tracking component of Secutils.dev.
 
 ## Why Secutils.dev?
 
@@ -13,7 +13,7 @@ Secutils.dev adheres to [open security principles](https://en.wikipedia.org/wiki
 * [Request responders](https://secutils.dev/docs/guides/webhooks) for rapid mocking of HTTP APIs and webhooks
 * [Templates](https://secutils.dev/docs/guides/digital_certificates) for certificates and private keys to test cryptographic security protocols
 * [Content Security Policy (CSP) management](https://secutils.dev/docs/guides/web_security/csp), enabling the import and creation of policies from scratch
-* Tools for [web page resource scraping](https://secutils.dev/docs/guides/web_scraping/resources), content tracking, and more
+* Tools for [web page content scraping](https://secutils.dev/docs/guides/web_scraping/page), content tracking, and more
 
 ![Secutils.dev Webhooks](https://github.com/secutils-dev/.github/blob/main/profile/webhooks.png?raw=true)
 
